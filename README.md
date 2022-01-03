@@ -1,2 +1,4 @@
-# Even-More-Seamoth-Depths-Modules
-Mod that adds 2 more seamoth depths module
+# Even More Seamoth Depths Modules
+- Self Explanatory isn't it?
+- Also It is kinda compatible with **More Seamoth Depths Module** Mod
+- **This Mod Requires [QModManager & SML-Helper]**
