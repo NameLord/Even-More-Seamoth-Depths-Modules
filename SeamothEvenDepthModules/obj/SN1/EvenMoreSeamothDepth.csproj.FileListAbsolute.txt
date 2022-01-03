@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\NGeorge Mods\SeamothEvenDepthModules\obj\SN1\EvenMoreSeamothDepth.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\NGeorge Mods\SeamothEvenDepthModules\obj\SN1\EvenMoreSeamothDepth.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Qmods\SN1\EvenMoreSeamothDepth\EvenMoreSeamothDepth.dll
+C:\Users\user\Desktop\NGeorge Mods\SeamothEvenDepthModules\obj\SN1\EvenMoreSeamothDepth.dll
